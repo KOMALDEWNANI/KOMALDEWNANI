@@ -7,8 +7,8 @@ I'm Komal Dewnani, a BTECH(IV SEM) student pursuing Computer Science at Birla In
 - 😊 I know C, C++ , Python. 
 - ❤ I love to explore new technologies to solve daily life problems.
 - 📫 How to reach me: 
-      - LinkedIn - https://www.linkedin.com/in/komal-dewnani-760225193/
-      - Email    - komaldewnani@gmail.com 
+       i. LinkedIn - https://www.linkedin.com/in/komal-dewnani-760225193/            
+      ii. Email    - komaldewnani@gmail.com 
 - ⚡ Fun fact: I love teaching and singing.
 
 
