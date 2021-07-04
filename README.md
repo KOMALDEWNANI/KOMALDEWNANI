@@ -1,6 +1,6 @@
 ### Heyo people 👋
 I'm Komal Dewnani, a BTECH(IV SEM) student pursuing Computer Science at Birla Institute of Technology, Mesra.
-- 👩🏻‍💻 I’m currently in Android Developement.
+- 👩🏻‍💻 I’m currently in Full Stack and Android Developement.
 - 🧲    I have a keen interest in building responsive applications.
 - ✅ I'm an open source enthusiast.
 -  🤓 I'm also developing a grip over Data Structures and Algorithms.
