@@ -18,7 +18,6 @@
 <br>
 
 -  I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
--  I’m on my way to become a  **Full Stack Developer**.
 -  I’m looking for SDE **internship** roles.
 -  I love **sharing and expanding my knowledge** with the world.🌐
 -  Strongly **believe** that my **today's habits** would shape my **future** 😊
