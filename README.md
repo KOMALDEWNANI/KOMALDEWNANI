@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <b>Birla Institute of Technology</b>, Mesra</a>. <br>
+    I am a final Year undergraduate from <b>Birla Institute of Technology</b>, Mesra</a>. <br>
    
   </em>  
 </p>
@@ -18,7 +18,6 @@
 <br>
 
 -  I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
--  I’m looking for SDE **internship** roles.
 -  I love **sharing and expanding my knowledge** with the world.🌐
 -  Strongly **believe** that my **today's habits** would shape my **future** 😊
 -  **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
