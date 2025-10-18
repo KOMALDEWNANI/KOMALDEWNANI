@@ -10,7 +10,7 @@
 
 <p>
   <em>
-    I am a final Year undergraduate from <b>Birla Institute of Technology</b>, Mesra</a>. <br>
+    I'm a Full Stack Software Engineer with 2+ years of experience at Microsoft building web applications using C#, .NET, React, Angular, and Azure. <br>
    
   </em>  
 </p>
